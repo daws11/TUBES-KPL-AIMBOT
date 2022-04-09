@@ -1,0 +1,7 @@
+List pengerjaan:
+Automata:
+Table-driven construction:
+Parameterization/generics:
+Defensive programming/design by contract:
+Parsing:
+Runtime configuration:
